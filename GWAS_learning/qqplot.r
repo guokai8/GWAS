@@ -17,3 +17,4 @@ gg_qqplot = function(xs, ci=0.95) {
         ylab(log10Po)
 }
 ```
+gg_plot(pvalue)
